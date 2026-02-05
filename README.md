@@ -19,7 +19,9 @@
 В проекте детектиться красный мячик hsv фильтром, обводится зеленым bounting box.
 HSV - hue (цветовой тон), saturation (насыщенность), value (якрость)
 
-Пример прошлогодней работы https://t.me/c/2255724543/2262 
+Презентация проекта: https://docs.google.com/presentation/d/1ruG29Lmi03Z-nsCHz7t_0BgRYdm9szNrwO9jh8VZGm0/edit?usp=sharing
+
+Пример прошлогодней работы: https://t.me/c/2255724543/2262 
 
 
 
