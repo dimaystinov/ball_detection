@@ -23,6 +23,8 @@ HSV - hue (цветовой тон), saturation (насыщенность), valu
 
 Презентация проекта: https://docs.google.com/presentation/d/1ruG29Lmi03Z-nsCHz7t_0BgRYdm9szNrwO9jh8VZGm0/edit?usp=sharing
 
+Скачать готовую exe программу https://github.com/dimaystinov/ball_detection/releases
+
 Пример прошлогодней работы: https://t.me/c/2255724543/2262 
 
 Тема проекта:
